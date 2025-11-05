@@ -1,5 +1,6 @@
 {
   "name": "Mantle",
+  "version": "2.2.1",
   "summary": "Model framework for Cocoa and Cocoa Touch.",
   "homepage": "https://github.com/mitakeRD6iOS/Mantle",
   "license": "MIT",
