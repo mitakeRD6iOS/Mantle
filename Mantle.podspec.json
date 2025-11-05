@@ -1,7 +1,7 @@
 {
   "name": "Mantle",
   "summary": "Model framework for Cocoa and Cocoa Touch.",
-  "homepage": "https://github.com/Mantle/Mantle",
+  "homepage": "https://github.com/mitakeRD6iOS/Mantle",
   "license": "MIT",
   "authors": {
     "Robert Böhnke": "robb@robb.is",
@@ -9,7 +9,7 @@
     "Jan Gorman": "gorman.jan@gmail.com"
   },
   "source": {
-    "git": "https://github.com/Mantle/Mantle.git"
+    "git": "https://github.com/mitakeRD6iOS/Mantle.git"
   },
   "platforms": {
     "ios": "9.0",
