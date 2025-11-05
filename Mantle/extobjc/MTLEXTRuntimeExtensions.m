@@ -596,6 +596,9 @@ mtl_propertyAttributes *mtl_copyPropertyAttributes (objc_property_t property) {
                 ++next;
 
             break;
+				
+		case '?':
+			break;
 
         default:
             fprintf(stderr, "ERROR: Unrecognized attribute string flag '%c' in attribute string \"%s\" for property %s\n", flag, attrString, property_getName(property));
